@@ -1,4 +1,4 @@
-name: 'Hello World'
-packageKey: 'com.smartthings.helloworld'
+name: 'real-device'
+packageKey: 'com.smartthings.real-device'
 permissions:
   discovery: {}
