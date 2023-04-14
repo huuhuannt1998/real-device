@@ -1,5 +1,5 @@
-# hello-world-profile
-name: hello-world.v1
+# real-device-profile
+name: real-device
 components:
 - id: main
   capabilities:
